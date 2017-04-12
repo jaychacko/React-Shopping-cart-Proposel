@@ -1,0 +1,28 @@
+.items-list{
+
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  border color: orange;
+
+  }
+  .item-list-item{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 50px
+
+  }
+
+.items-image{
+  max-width: 200px;
+  max-height: 250px;
+  width: auto;
+  height: auto;
+}
+
+.divwrap{
+
+  padding-left: 25px
+}
